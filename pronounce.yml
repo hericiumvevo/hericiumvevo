@@ -16,6 +16,7 @@ urls:
      - "https://github.com/not-my-segfault.gpg"
      - "https://tar.black"
      - "https://getcryst.al"
+     - "https://en.pronouns.page/@hericiumvevo"
 
 colors:
   background: "#0e0e0eff"
