@@ -1,0 +1,27 @@
+
+---
+title: hhhhhhhhhhhhhhhh
+icon:  https://cdn.discordapp.com/avatars/986309324521472040/3e5201e0ed2eb8eec0d13cdc315b12b8.webp?size=128
+name:  jasio <jasio@tar.black>
+age:   16
+pronouns: 
+     - She/Her
+     - They/Them
+contacts:
+     - "E-Mail:  jasio@tar.black"
+     - "Discord: hericiumvevo#0001"
+     - "Twitter: @hericiumvevo"
+     - "Matrix:  @jasio:tar.black"
+urls:
+     - "https://github.com/not-my-segfault.gpg"
+     - "https://tar.black"
+     - "https://getcryst.al"
+
+colors:
+  background: "#0e0e0eff"
+  foreground: "#eeeeeeff"
+  name:       "#696969ff"
+  info:       "#eeeeeecc"
+  url:
+    normal:   "#eeeeee9d"
+    hover:    "#eeeeeeb9"
