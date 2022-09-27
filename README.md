@@ -7,7 +7,7 @@ Slayest designer the world has ever seen
 
 
 
-## Other Common Github Profile Sections
+## EVEN MORE ABOUT ME????
 👩‍💻 I'm currently working on [Crystal Linux](https://getcryst.al)
 
 🧠 I'm currently learning all of FNAF lore
