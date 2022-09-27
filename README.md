@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 Slayest designer the world has ever seen
-
+You may have noticed i don't have many repos myself, everything I do is for [Crystal](https://getcryst.al) LOL
 
 
 ## EVEN MORE ABOUT ME????
