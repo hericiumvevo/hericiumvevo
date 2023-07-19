@@ -19,7 +19,7 @@ You may have noticed I don't have many repos myself, everything I do is for [Cry
 
 📫 How to reach me [@hericiumvevo](https://twitter.com/hericiumVEVO) on twitter, eryn#8004 on discord
 
-😄 Pronouns: Currently `she/her` but feel free to ask me anytime
+😄 Pronouns: Currently `he/they` but feel free to ask me anytime
 
 ⚡️ Fun fact: slaying as much as i do HURTS
 
