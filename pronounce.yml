@@ -8,20 +8,20 @@ pronouns:
      - She/Her
      - They/Them
 contacts:
-     - "E-Mail:  eryn@eryn.cloud"
-     - "Discord: hericiumvevo#8003"
+     - "E-Mail:  eryn@blahaj.land"
+     - "Discord: @flathub"
      - "Twitter: @hericiumvevo"
-     - "Matrix:  @hericiumvevo:getcryst.al"
+     - "Matrix:  @eryn@blahaj.land"
 urls:
      - "https://en.pronouns.page/@hericiumvevo"
      - "https://github.com/hericiumvevo"
-     - "https://eryn.cloud"
+     - "https://blahaj.land"
      - "https://getcryst.al"
      - "https://github.com/project-shards"
 
 colors:
-  background: "#0e0e0eff"
-  foreground: "#eeeeeeff"
+  background: "#1b262cff"
+  foreground: "#e3ff00ff"
   name:       "#696969ff"
   info:       "#eeeeeecc"
   url:
