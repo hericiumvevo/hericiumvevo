@@ -20,7 +20,7 @@ urls:
      - "https://github.com/project-shards"
 
 colors:
-  background: "#1b262cff"
+  background: "#594eb0ff"
   foreground: "#e3ff00ff"
   name:       "#696969ff"
   info:       "#eeeeeecc"
