@@ -1,0 +1,40 @@
+[title]
+title = "eryn"
+img = "https://blahaj.lol/media/2ff629c8ad83b0d7c2f0d2057567b19e4bd37259cd87478ee3817bf804a8570a.jpeg"
+catchphrase = "the gay"
+pronouns = [ "he/they" ]
+
+[personal]
+name1 = "eryn"
+name2 = ""
+age = "18"
+desc = "blahaj.land and blahaj.lol owner"
+flags = [ "gay" ]
+work = "blahaj.land"
+timezone = ""
+location = "Cental/Eastern Europe"
+
+[colors]
+background = "#1a1c20"
+widget = ""
+link = ""
+hover = ""
+title = ""
+text = ""
+bgimg = ""
+
+[[urls]]
+url = "https://blahaj.land"
+title = "my site"
+
+[[urls]]
+title = "my other site"
+url = "https://blahaj.lol"
+
+[[urls]]
+title = "my music project"
+url = "https://eryn.tech"
+
+[[urls]]
+title = "my discord server "
+url = "https://discord.gg/ZWBKEraRG8"
